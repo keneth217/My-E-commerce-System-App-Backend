@@ -8,5 +8,5 @@
  -create user,login using phone
  # Link To Apis
  -start the server and click the link above 
- -all links are secured except some
- ::=> http://127.0.0.1:9091/swagger-ui/index.html#/
+ -all links are secured except some which inlude api to create customer,login,get products
+#::=> http://127.0.0.1:9091/swagger-ui/index.html#/
