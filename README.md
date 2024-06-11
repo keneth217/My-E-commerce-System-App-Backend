@@ -7,4 +7,6 @@
  # User
  -create user,login using phone
  # Link To Apis
+ -start the server and click the link above 
+ -all links are secured except some
  ::=> http://127.0.0.1:9091/swagger-ui/index.html#/
