@@ -6,7 +6,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-@OpenAPIDefinition(info = @Info(title = "Kipyegon's E-commerce application"))
+@OpenAPIDefinition(info = @Info(title = "E-commerce application"))
 public class  ECommerceApplication {
 
 	public static void main(String[] args) {
